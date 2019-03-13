@@ -10,7 +10,6 @@ use pocketmine\event\entity\EntityDamageByBlockEvent;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\item\Item;
 use pocketmine\item\ItemFactory;
-//use pocketmine\math\Facing; Api: 4.0.0
 
 
 class Cactus extends Transparent{
@@ -44,7 +43,7 @@ class Cactus extends Transparent{
 
         }else{
 
-            for($side = 2; $side <= 5; ++$side){ //remove Api: 4.0.0
+            for($side = 2; $side <= 5; ++$side){
                 $block = $this->getSide($side);
 
                 if($block->isSolid()){
@@ -55,16 +54,6 @@ class Cactus extends Transparent{
                 }
 
             }
-
-            /* Api: 4.0.0
-            foreach(Facing::HORIZONTAL as $side){
-				$b = $this->getSide($side);
-				if($b->isSolid()){
-					$this->getLevel()->useBreakOn($this);
-					break;
-				}
-			 }
-             */
 
         }
 

@@ -8,10 +8,9 @@ use pocketmine\block\BlockToolType;
 use pocketmine\block\Fallable;
 use pocketmine\item\Item;
 use pocketmine\item\ItemFactory;
-//use pocketmine\block\utils\Fallable; Api: 4.0.0
 
 
-class Sand extends Fallable{ //extends Solid implements Fallable Api: 4.0.0
+class Sand extends Fallable{
 
     public function __construct(){
         parent::__construct(12, 0, 'Sand');

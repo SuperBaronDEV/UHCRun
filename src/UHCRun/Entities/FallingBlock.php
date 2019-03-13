@@ -55,7 +55,7 @@ class FallingBlock extends Entity{
 
         $this->block = BlockFactory::get($blockId, $damage);
 
-        $this->propertyManager->setInt(self::DATA_VARIANT, $this->block->getRuntimeId()); //@internal
+        $this->propertyManager->setInt(self::DATA_VARIANT, $this->block->getRuntimeId());
 
     }
 
@@ -138,16 +138,6 @@ class FallingBlock extends Entity{
         $this->namedtag->setByte("Data", $this->block->getDamage());
 
     }
-
-    /* Api: 4.0.0
-    public function saveNBT(): CompoundTag{
-        $nbt = parent::saveNBT();
-        $nbt->setInt("TileID", $this->block->getId());
-        $nbt->setByte("Data", $this->block->getMeta());
-        return $nbt;
-
-    }
-    */
 
 
 }

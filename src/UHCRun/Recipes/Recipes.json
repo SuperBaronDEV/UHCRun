@@ -1,0 +1,575 @@
+[
+
+  {
+
+    "result": {
+      "id": 273,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 1
+
+      }
+
+    },
+
+    "shape": [
+      " A ",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 5,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 269
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 256,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 2
+
+      }
+
+    },
+
+    "shape": [
+      " A ",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 265,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 256
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 284,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 3
+
+      }
+
+    },
+
+    "shape": [
+      " A ",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 266,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 284
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 277,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 4
+
+      }
+
+    },
+
+    "shape": [
+      " A ",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 264,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 277
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 274,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 1
+
+      }
+
+    },
+
+    "shape": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 5,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 270
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 257,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 2
+
+      }
+
+    },
+
+    "shape": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 265,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 257
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 285,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 3
+
+      }
+
+    },
+
+    "shape": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 266,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 285
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 278,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 4
+
+      }
+
+    },
+
+    "shape": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 264,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 278
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 275,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 1
+
+      }
+
+    },
+
+    "shape": [
+      "AA ",
+      "AB ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 5,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 271
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 258,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 2
+
+      }
+
+    },
+
+    "shape": [
+      "AA ",
+      "AB ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 265,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 258
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 286,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 3
+
+      }
+
+    },
+
+    "shape": [
+      "AA ",
+      "AB ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 266,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 286
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 279,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "EFFICIENCY": 4
+
+      }
+
+    },
+
+    "shape": [
+      "AA ",
+      "AB ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 264,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 279
+
+    }
+
+  },
+
+  {
+
+    "result": {
+      "id": 272,
+      "meta": 0,
+      "count": 1,
+
+      "enchantments": {
+        "UNBREAKING": 3,
+        "SHARPNESS": 1
+
+      }
+
+    },
+
+    "shape": [
+      " A ",
+      " A ",
+      " B "
+    ],
+
+    "input": {
+
+      "A": {
+        "id": 5,
+        "damage": -1
+
+      },
+
+      "B": {
+        "id": 280,
+        "damage": -1
+
+      }
+
+    },
+
+    "replace": {
+      "id": 268
+
+    }
+
+  }
+
+]
